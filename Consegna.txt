@@ -1,0 +1,14 @@
+Utente  ->  Utente newsletter   ->  Utente interessato  ->  Utente selezioni
+            Email                   Email                   C.F
+            Privacy                 Privacy                 C.I
+                                    Nome                    Titolo di studio
+                                    Cognome                 C.V.
+                                    Telefono                Lettera
+
+Utente selezioni    ->  Utente graduatoria  ->  Iscritto    ->  Allievo
+                        Punteggio test          Pagamenti       Percentuale presenze
+                        Punteggio colloquio                     Votazioni moduli
+                        Punteggio totale                        Password
+
+Utente newsletter   ->  Docente
+                        Paga
